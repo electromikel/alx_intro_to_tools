@@ -1,2 +1,2 @@
-This is me my readme
+This is my readme
 adding more
